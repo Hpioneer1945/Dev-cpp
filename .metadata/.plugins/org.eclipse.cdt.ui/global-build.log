@@ -10,3 +10,4 @@ Info: Nothing to build for Test
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.cpp" 
 g++ -o Test.exe "src\\Test.o" 
+Info: Nothing to build for Test
